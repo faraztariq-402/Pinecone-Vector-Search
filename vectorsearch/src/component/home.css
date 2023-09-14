@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    margin-left: 1rem;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+margin: 1.5rem;
+padding: 1.5rem;
+}
+input{
+    border-radius: 5px;
+}
+.contents{
+    display: flex;
+    gap: 0.5rem;
+}
+button{
+    padding: 0.2rem;
+    background-color: black;
+    color: white
+    ;
+    border-radius: 0.3rem;
+}
